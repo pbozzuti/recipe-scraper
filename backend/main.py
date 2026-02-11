@@ -22,6 +22,7 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "https://recipe-scraper-mu-azure.vercel.app",
+    "https://recipe-scraper-git-main-pbozzutis-projects.vercel.app",
 ]
 app.add_middleware(
     CORSMiddleware,
