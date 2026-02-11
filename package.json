@@ -1,0 +1,13 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "Recipe cleaner app with frontend and backend",
+  "scripts": {
+    "start": "./start.sh",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && ./start.sh"
+  },
+  "keywords": ["recipe", "scraper"],
+  "author": "",
+  "license": "ISC"
+}
